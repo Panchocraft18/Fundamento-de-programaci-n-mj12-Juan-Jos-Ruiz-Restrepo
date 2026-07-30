@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Documents\fundamento_programacion\2.2Dontanstes_tipos_data_y_operadores\bin\Debug\2.2Dontanstes_tipos_data_y_operadores.exe.config
+C:\Users\Lenovo\Documents\fundamento_programacion\2.2Dontanstes_tipos_data_y_operadores\bin\Debug\2.2Dontanstes_tipos_data_y_operadores.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\2.2Dontanstes_tipos_data_y_operadores\bin\Debug\2.2Dontanstes_tipos_data_y_operadores.pdb
+C:\Users\Lenovo\Documents\fundamento_programacion\2.2Dontanstes_tipos_data_y_operadores\obj\Debug\2.2Dontanstes_tipos_data_y_operadores.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\2.2Dontanstes_tipos_data_y_operadores\obj\Debug\2.2Dontanstes_tipos_data_y_operadores.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\2.2Dontanstes_tipos_data_y_operadores\obj\Debug\2.2Dontanstes_tipos_data_y_operadores.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\2.2Dontanstes_tipos_data_y_operadores\obj\Debug\2.2Dontanstes_tipos_data_y_operadores.pdb
+C:\Users\Lenovo\Documents\fundamento_programacion\2.2Dontanstes_tipos_data_y_operadores\obj\Debug\2.2Dontanstes_tipos_data_y_operadores.exe.config
