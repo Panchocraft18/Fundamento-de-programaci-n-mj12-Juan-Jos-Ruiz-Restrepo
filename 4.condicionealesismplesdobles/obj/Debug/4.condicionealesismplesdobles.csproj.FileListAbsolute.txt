@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Documents\fundamento_programacion\4.condicionealesismplesdobles\bin\Debug\4.condicionealesismplesdobles.exe.config
+C:\Users\Lenovo\Documents\fundamento_programacion\4.condicionealesismplesdobles\bin\Debug\4.condicionealesismplesdobles.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\4.condicionealesismplesdobles\bin\Debug\4.condicionealesismplesdobles.pdb
+C:\Users\Lenovo\Documents\fundamento_programacion\4.condicionealesismplesdobles\obj\Debug\4.condicionealesismplesdobles.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\4.condicionealesismplesdobles\obj\Debug\4.condicionealesismplesdobles.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\4.condicionealesismplesdobles\obj\Debug\4.condicionealesismplesdobles.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\4.condicionealesismplesdobles\obj\Debug\4.condicionealesismplesdobles.pdb
+C:\Users\Lenovo\Documents\fundamento_programacion\4.condicionealesismplesdobles\obj\Debug\4.condicionealesismplesdobles.exe.config
