@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Documents\fundamento_programacion\6.condicionalesMultiples\bin\Debug\6.condicionalesMultiples.exe.config
+C:\Users\Lenovo\Documents\fundamento_programacion\6.condicionalesMultiples\bin\Debug\6.condicionalesMultiples.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\6.condicionalesMultiples\bin\Debug\6.condicionalesMultiples.pdb
+C:\Users\Lenovo\Documents\fundamento_programacion\6.condicionalesMultiples\obj\Debug\6.condicionalesMultiples.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\6.condicionalesMultiples\obj\Debug\6.condicionalesMultiples.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\6.condicionalesMultiples\obj\Debug\6.condicionalesMultiples.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\6.condicionalesMultiples\obj\Debug\6.condicionalesMultiples.pdb
