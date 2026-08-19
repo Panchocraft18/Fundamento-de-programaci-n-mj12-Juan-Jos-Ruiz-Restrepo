@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Documents\fundamento_programacion\mover_jugador\bin\Debug\mover_jugador.exe.config
+C:\Users\Lenovo\Documents\fundamento_programacion\mover_jugador\bin\Debug\mover_jugador.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\mover_jugador\bin\Debug\mover_jugador.pdb
+C:\Users\Lenovo\Documents\fundamento_programacion\mover_jugador\obj\Debug\mover_jugador.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\mover_jugador\obj\Debug\mover_jugador.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\mover_jugador\obj\Debug\mover_jugador.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\mover_jugador\obj\Debug\mover_jugador.pdb
+C:\Users\Lenovo\Documents\fundamento_programacion\mover_jugador\obj\Debug\mover_jugador.exe.config

@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Documents\fundamento_programacion\Prueba_parcial1\bin\Debug\Prueba_parcial1.exe.config
+C:\Users\Lenovo\Documents\fundamento_programacion\Prueba_parcial1\bin\Debug\Prueba_parcial1.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\Prueba_parcial1\bin\Debug\Prueba_parcial1.pdb
+C:\Users\Lenovo\Documents\fundamento_programacion\Prueba_parcial1\obj\Debug\Prueba_parcial1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\Prueba_parcial1\obj\Debug\Prueba_parcial1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\Prueba_parcial1\obj\Debug\Prueba_parcial1.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\Prueba_parcial1\obj\Debug\Prueba_parcial1.pdb
+C:\Users\Lenovo\Documents\fundamento_programacion\Prueba_parcial1\obj\Debug\Prueba_parcial1.exe.config

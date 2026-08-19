@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Documents\fundamento_programacion\disparo_pew_pew\bin\Debug\disparo_pew_pew.exe.config
+C:\Users\Lenovo\Documents\fundamento_programacion\disparo_pew_pew\bin\Debug\disparo_pew_pew.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\disparo_pew_pew\bin\Debug\disparo_pew_pew.pdb
+C:\Users\Lenovo\Documents\fundamento_programacion\disparo_pew_pew\obj\Debug\disparo_pew_pew.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\disparo_pew_pew\obj\Debug\disparo_pew_pew.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\disparo_pew_pew\obj\Debug\disparo_pew_pew.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\disparo_pew_pew\obj\Debug\disparo_pew_pew.pdb
+C:\Users\Lenovo\Documents\fundamento_programacion\disparo_pew_pew\obj\Debug\disparo_pew_pew.exe.config
