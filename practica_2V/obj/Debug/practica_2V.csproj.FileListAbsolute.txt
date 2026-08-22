@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Documents\fundamento_programacion\practica_2V\obj\Debug\practica_2V.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\practica_2V\obj\Debug\practica_2V.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\practica_2V\bin\Debug\practica_2V.exe.config
+C:\Users\Lenovo\Documents\fundamento_programacion\practica_2V\bin\Debug\practica_2V.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\practica_2V\bin\Debug\practica_2V.pdb
+C:\Users\Lenovo\Documents\fundamento_programacion\practica_2V\obj\Debug\practica_2V.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\practica_2V\obj\Debug\practica_2V.pdb
+C:\Users\Lenovo\Documents\fundamento_programacion\practica_2V\obj\Debug\practica_2V.exe.config
