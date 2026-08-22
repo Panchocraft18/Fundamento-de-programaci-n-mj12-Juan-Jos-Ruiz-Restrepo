@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Documents\fundamento_programacion\cosa_promedioscole\bin\Debug\cosa_promedioscole.exe.config
+C:\Users\Lenovo\Documents\fundamento_programacion\cosa_promedioscole\bin\Debug\cosa_promedioscole.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\cosa_promedioscole\bin\Debug\cosa_promedioscole.pdb
+C:\Users\Lenovo\Documents\fundamento_programacion\cosa_promedioscole\obj\Debug\cosa_promedioscole.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\cosa_promedioscole\obj\Debug\cosa_promedioscole.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\cosa_promedioscole\obj\Debug\cosa_promedioscole.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\cosa_promedioscole\obj\Debug\cosa_promedioscole.pdb
+C:\Users\Lenovo\Documents\fundamento_programacion\cosa_promedioscole\obj\Debug\cosa_promedioscole.exe.config
