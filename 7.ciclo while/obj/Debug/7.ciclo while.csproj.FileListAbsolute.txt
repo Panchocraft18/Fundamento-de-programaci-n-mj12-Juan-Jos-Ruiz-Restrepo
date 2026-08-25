@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Documents\fundamento_programacion\7.ciclo while\bin\Debug\7.ciclo while.exe.config
+C:\Users\Lenovo\Documents\fundamento_programacion\7.ciclo while\bin\Debug\7.ciclo while.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\7.ciclo while\bin\Debug\7.ciclo while.pdb
+C:\Users\Lenovo\Documents\fundamento_programacion\7.ciclo while\obj\Debug\7.ciclo while.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\7.ciclo while\obj\Debug\7.ciclo while.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\7.ciclo while\obj\Debug\7.ciclo while.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\7.ciclo while\obj\Debug\7.ciclo while.pdb
+C:\Users\Lenovo\Documents\fundamento_programacion\7.ciclo while\obj\Debug\7.ciclo while.exe.config
