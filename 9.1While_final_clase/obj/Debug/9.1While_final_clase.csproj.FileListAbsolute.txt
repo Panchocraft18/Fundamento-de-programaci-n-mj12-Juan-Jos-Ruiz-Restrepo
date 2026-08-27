@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Documents\fundamento_programacion\9.1While_final_clase\bin\Debug\9.1While_final_clase.exe.config
+C:\Users\Lenovo\Documents\fundamento_programacion\9.1While_final_clase\bin\Debug\9.1While_final_clase.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\9.1While_final_clase\bin\Debug\9.1While_final_clase.pdb
+C:\Users\Lenovo\Documents\fundamento_programacion\9.1While_final_clase\obj\Debug\9.1While_final_clase.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\9.1While_final_clase\obj\Debug\9.1While_final_clase.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\9.1While_final_clase\obj\Debug\9.1While_final_clase.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\9.1While_final_clase\obj\Debug\9.1While_final_clase.pdb
