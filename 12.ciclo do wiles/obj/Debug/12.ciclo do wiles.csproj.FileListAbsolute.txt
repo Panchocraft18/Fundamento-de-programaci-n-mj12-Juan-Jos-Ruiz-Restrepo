@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Documents\fundamento_programacion\12.ciclo do wiles\bin\Debug\12.ciclo do wiles.exe.config
+C:\Users\Lenovo\Documents\fundamento_programacion\12.ciclo do wiles\bin\Debug\12.ciclo do wiles.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\12.ciclo do wiles\bin\Debug\12.ciclo do wiles.pdb
+C:\Users\Lenovo\Documents\fundamento_programacion\12.ciclo do wiles\obj\Debug\12.ciclo do wiles.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\12.ciclo do wiles\obj\Debug\12.ciclo do wiles.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\12.ciclo do wiles\obj\Debug\12.ciclo do wiles.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\12.ciclo do wiles\obj\Debug\12.ciclo do wiles.pdb
+C:\Users\Lenovo\Documents\fundamento_programacion\12.ciclo do wiles\obj\Debug\12.ciclo do wiles.exe.config

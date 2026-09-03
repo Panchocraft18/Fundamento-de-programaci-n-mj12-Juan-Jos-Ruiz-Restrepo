@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Documents\fundamento_programacion\11.Ciclo_doWhile\obj\Debug\11.Ciclo_doWhile.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\11.Ciclo_doWhile\obj\Debug\11.Ciclo_doWhile.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\11.Ciclo_doWhile\bin\Debug\11.Ciclo_doWhile.exe.config
+C:\Users\Lenovo\Documents\fundamento_programacion\11.Ciclo_doWhile\bin\Debug\11.Ciclo_doWhile.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\11.Ciclo_doWhile\bin\Debug\11.Ciclo_doWhile.pdb
+C:\Users\Lenovo\Documents\fundamento_programacion\11.Ciclo_doWhile\obj\Debug\11.Ciclo_doWhile.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\11.Ciclo_doWhile\obj\Debug\11.Ciclo_doWhile.pdb
+C:\Users\Lenovo\Documents\fundamento_programacion\11.Ciclo_doWhile\obj\Debug\11.Ciclo_doWhile.exe.config
