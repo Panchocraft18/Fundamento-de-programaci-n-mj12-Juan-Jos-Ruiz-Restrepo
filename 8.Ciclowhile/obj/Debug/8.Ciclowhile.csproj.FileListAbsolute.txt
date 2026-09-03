@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Documents\fundamento_programacion\8.Ciclowhile\bin\Debug\8.Ciclowhile.exe.config
+C:\Users\Lenovo\Documents\fundamento_programacion\8.Ciclowhile\bin\Debug\8.Ciclowhile.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\8.Ciclowhile\bin\Debug\8.Ciclowhile.pdb
+C:\Users\Lenovo\Documents\fundamento_programacion\8.Ciclowhile\obj\Debug\8.Ciclowhile.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\8.Ciclowhile\obj\Debug\8.Ciclowhile.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\8.Ciclowhile\obj\Debug\8.Ciclowhile.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\8.Ciclowhile\obj\Debug\8.Ciclowhile.pdb
+C:\Users\Lenovo\Documents\fundamento_programacion\8.Ciclowhile\obj\Debug\8.Ciclowhile.exe.config
