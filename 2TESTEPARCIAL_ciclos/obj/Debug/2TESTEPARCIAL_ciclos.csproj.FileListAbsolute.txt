@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Documents\fundamento_programacion\2TESTEPARCIAL_ciclos\obj\Debug\2TESTEPARCIAL_ciclos.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\2TESTEPARCIAL_ciclos\obj\Debug\2TESTEPARCIAL_ciclos.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\2TESTEPARCIAL_ciclos\bin\Debug\2TESTEPARCIAL_ciclos.exe.config
+C:\Users\Lenovo\Documents\fundamento_programacion\2TESTEPARCIAL_ciclos\bin\Debug\2TESTEPARCIAL_ciclos.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\2TESTEPARCIAL_ciclos\bin\Debug\2TESTEPARCIAL_ciclos.pdb
+C:\Users\Lenovo\Documents\fundamento_programacion\2TESTEPARCIAL_ciclos\obj\Debug\2TESTEPARCIAL_ciclos.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\2TESTEPARCIAL_ciclos\obj\Debug\2TESTEPARCIAL_ciclos.pdb
+C:\Users\Lenovo\Documents\fundamento_programacion\2TESTEPARCIAL_ciclos\obj\Debug\2TESTEPARCIAL_ciclos.exe.config
