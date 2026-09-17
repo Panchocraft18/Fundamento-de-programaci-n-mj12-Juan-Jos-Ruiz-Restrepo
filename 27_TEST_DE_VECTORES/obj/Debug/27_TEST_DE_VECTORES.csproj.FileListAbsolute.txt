@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Documents\fundamento_programacion\27_TEST_DE_VECTORES\obj\Debug\27_TEST_DE_VECTORES.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\27_TEST_DE_VECTORES\obj\Debug\27_TEST_DE_VECTORES.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\27_TEST_DE_VECTORES\bin\Debug\27_TEST_DE_VECTORES.exe.config
+C:\Users\Lenovo\Documents\fundamento_programacion\27_TEST_DE_VECTORES\bin\Debug\27_TEST_DE_VECTORES.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\27_TEST_DE_VECTORES\bin\Debug\27_TEST_DE_VECTORES.pdb
+C:\Users\Lenovo\Documents\fundamento_programacion\27_TEST_DE_VECTORES\obj\Debug\27_TEST_DE_VECTORES.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\27_TEST_DE_VECTORES\obj\Debug\27_TEST_DE_VECTORES.pdb
+C:\Users\Lenovo\Documents\fundamento_programacion\27_TEST_DE_VECTORES\obj\Debug\27_TEST_DE_VECTORES.exe.config
