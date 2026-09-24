@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Documents\fundamento_programacion\17.Arreglos_bidimencionales\bin\Debug\17.Arreglos_bidimencionales.exe.config
+C:\Users\Lenovo\Documents\fundamento_programacion\17.Arreglos_bidimencionales\bin\Debug\17.Arreglos_bidimencionales.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\17.Arreglos_bidimencionales\bin\Debug\17.Arreglos_bidimencionales.pdb
+C:\Users\Lenovo\Documents\fundamento_programacion\17.Arreglos_bidimencionales\obj\Debug\17.Arreglos_bidimencionales.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\17.Arreglos_bidimencionales\obj\Debug\17.Arreglos_bidimencionales.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\17.Arreglos_bidimencionales\obj\Debug\17.Arreglos_bidimencionales.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\17.Arreglos_bidimencionales\obj\Debug\17.Arreglos_bidimencionales.pdb
+C:\Users\Lenovo\Documents\fundamento_programacion\17.Arreglos_bidimencionales\obj\Debug\17.Arreglos_bidimencionales.exe.config
