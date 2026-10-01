@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Documents\fundamento_programacion\18.Porgramacionmodular\bin\Debug\18.Porgramacionmodular.exe.config
+C:\Users\Lenovo\Documents\fundamento_programacion\18.Porgramacionmodular\bin\Debug\18.Porgramacionmodular.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\18.Porgramacionmodular\bin\Debug\18.Porgramacionmodular.pdb
+C:\Users\Lenovo\Documents\fundamento_programacion\18.Porgramacionmodular\obj\Debug\18.Porgramacionmodular.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\18.Porgramacionmodular\obj\Debug\18.Porgramacionmodular.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\18.Porgramacionmodular\obj\Debug\18.Porgramacionmodular.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\18.Porgramacionmodular\obj\Debug\18.Porgramacionmodular.pdb
+C:\Users\Lenovo\Documents\fundamento_programacion\18.Porgramacionmodular\obj\Debug\18.Porgramacionmodular.exe.config
