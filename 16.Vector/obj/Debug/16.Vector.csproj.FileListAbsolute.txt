@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Documents\fundamento_programacion\16.Vector\bin\Debug\16.Vector.exe.config
+C:\Users\Lenovo\Documents\fundamento_programacion\16.Vector\bin\Debug\16.Vector.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\16.Vector\bin\Debug\16.Vector.pdb
+C:\Users\Lenovo\Documents\fundamento_programacion\16.Vector\obj\Debug\16.Vector.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\16.Vector\obj\Debug\16.Vector.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\16.Vector\obj\Debug\16.Vector.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\16.Vector\obj\Debug\16.Vector.pdb
