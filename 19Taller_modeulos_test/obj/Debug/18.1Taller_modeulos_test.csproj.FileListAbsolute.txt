@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Documents\fundamento_programacion\18.1Taller_modeulos_test\bin\Debug\18.1Taller_modeulos_test.exe.config
+C:\Users\Lenovo\Documents\fundamento_programacion\18.1Taller_modeulos_test\bin\Debug\18.1Taller_modeulos_test.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\18.1Taller_modeulos_test\bin\Debug\18.1Taller_modeulos_test.pdb
+C:\Users\Lenovo\Documents\fundamento_programacion\18.1Taller_modeulos_test\obj\Debug\18.1Taller_modeulos_test.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\18.1Taller_modeulos_test\obj\Debug\18.1Taller_modeulos_test.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\18.1Taller_modeulos_test\obj\Debug\18.1Taller_modeulos_test.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\18.1Taller_modeulos_test\obj\Debug\18.1Taller_modeulos_test.pdb
+C:\Users\Lenovo\Documents\fundamento_programacion\18.1Taller_modeulos_test\obj\Debug\18.1Taller_modeulos_test.exe.config
