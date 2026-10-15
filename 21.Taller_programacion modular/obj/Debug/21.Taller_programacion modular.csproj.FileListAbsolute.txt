@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Documents\fundamento_programacion\21.Taller_programacion modular\bin\Debug\21.Taller_programacion modular.exe.config
+C:\Users\Lenovo\Documents\fundamento_programacion\21.Taller_programacion modular\bin\Debug\21.Taller_programacion modular.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\21.Taller_programacion modular\bin\Debug\21.Taller_programacion modular.pdb
+C:\Users\Lenovo\Documents\fundamento_programacion\21.Taller_programacion modular\obj\Debug\21.Taller_programacion modular.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\21.Taller_programacion modular\obj\Debug\21.Taller_programacion modular.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\fundamento_programacion\21.Taller_programacion modular\obj\Debug\21.Taller_programacion modular.exe
+C:\Users\Lenovo\Documents\fundamento_programacion\21.Taller_programacion modular\obj\Debug\21.Taller_programacion modular.pdb
